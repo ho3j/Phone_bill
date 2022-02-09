@@ -1,0 +1,43 @@
+ Issuance of telephone bill in Isfahan province of Iran
+
+Today is:             
+1400-11-20 15:54:33.037424
+
+your number is:       
+3134252697
+
+Billing ID :          
+357677731147
+
+Payment code :        
+2801006
+
+payment dead-line :   
+00/11/15
+
+start period :        
+1400/10/01
+
+end period :          
+1400/10/30
+
+membership right :    
+834
+
+Duties and taxes :    
+1,881
+
+Bill :                
+34,182
+
+Previous debt :       
+-5,349
+
+Correction amount :   
+0
+
+Rial cost deduction : 
+834
+
+The amount payable to the bank------> : 
+28000
